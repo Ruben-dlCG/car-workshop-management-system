@@ -1,0 +1,5 @@
+{
+  "name": "Java Portfolio Container",
+  "image": "://microsoft.com",
+  "postCreateCommand": "mvn dependency:go-offline"
+}
